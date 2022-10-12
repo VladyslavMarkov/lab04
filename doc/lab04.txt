@@ -38,11 +38,11 @@ Process 15967 resuming
 
 
 Структура проекту лабораторної роботи:
-.
-├── lab03 
+   
+├── lab04
 │   ├── doc
-│   │   └── lab03.txt
-│   ├── Makefile
+│   │   └── lab04.txt
+│   ├── Makefile
 │   ├── README.md
 │   └── src
 │       └── main.c
